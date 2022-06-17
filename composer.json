@@ -1,0 +1,13 @@
+{
+    "name": "mbodekama/atoum",
+    "description": "Atoum Website",
+    "type": "project",
+    "license": "GPU",
+    "authors": [
+        {
+            "name": "mbodekama"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
